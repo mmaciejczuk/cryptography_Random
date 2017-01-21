@@ -1,0 +1,48 @@
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.exe
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.pdb
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Form1.resources
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Properties.Resources.resources
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+C:\Users\mariusz\documents\visual studio 2010\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Form1.resources
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Properties.Resources.resources
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\bin\Debug\Zjazd2.exe
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\bin\Debug\Zjazd2.pdb
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Form1.resources
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Properties.Resources.resources
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mariusz\Desktop\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+I:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.exe
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.pdb
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Form1.resources
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Properties.Resources.resources
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd2\Zjazd2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.exe
+D:\Projects\Zjazd2\Zjazd2\bin\Debug\Zjazd2.pdb
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.csprojResolveAssemblyReference.cache
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Form1.resources
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.Properties.Resources.resources
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.csproj.GenerateResource.Cache
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.exe
+D:\Projects\Zjazd2\Zjazd2\obj\x86\Debug\Zjazd2.pdb
